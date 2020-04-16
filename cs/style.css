@@ -1,0 +1,16 @@
+/* make image responsive*/
+.back-image{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: opx;
+    margin-top: 74px;
+
+     
+}
+/*navbar font*/
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+     font-size: 2em;
+    font-weight: bold;}
